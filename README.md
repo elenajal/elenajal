@@ -1,5 +1,5 @@
 - Hi, I’m Elena
-- Working at Utrecht University as a Junior Researcher for the Methods and Statistics department and Disc-AI Lab (ASReview). 
+- **External PhD Candidate** at at the Methods and Statistics department and Disc-AI Lab (ASReview) of **Utrecht University** and **AI Research Consultant at FwdFaster AI**. 
 - 📫 Email: elena.jalsovec@gmail.com
 
 <!---
